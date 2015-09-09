@@ -1,6 +1,6 @@
 var formidable = require('formidable');
 var util = require('util');
-var path = requrie('path');
+var path = require('path');
 var express = require('express');
 var fs = require('fs');
 var app = express();
